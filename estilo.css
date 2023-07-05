@@ -1,13 +1,15 @@
+@import url("./estilos/header.css");
+
 :root{
-    --plano-de-fundo: #EBECEE;
-    
+    --plano-de-fundo: #acffa4;
+    --cor-cabecalho: #FFFFFF;
+
 }
 
 body{
 background-color: var(--plano-de-fundo);
 
 }
-
 .logo{
-    width: 200px;
+    width: 15%;
 }
