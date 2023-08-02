@@ -1,8 +1,13 @@
 @import url("./estilos/header.css");
 
 :root{
-    --plano-de-fundo: #acffa4;
+    --plano-de-fundo: #059022;
     --cor-cabecalho: #FFFFFF;
+    --plano-de-fundo-sec: #56c26e;
+    --fonte-dif:#e9d30f;
+    --amarelo-degrade: linear-gradient(97.54deg , #e9d30f 35.49%, #FFFFFF 165.37% );
+
+
 
 }
 
