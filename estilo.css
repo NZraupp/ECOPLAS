@@ -1,11 +1,13 @@
 @import url("./estilos/header.css");
+@import url("./estilos/banner.css");
+@import url("./estilos/carrossel.css");
 
 :root{
-    --plano-de-fundo: #059022;
+    --plano-de-fundo: #ffffff;
     --cor-cabecalho: #FFFFFF;
     --plano-de-fundo-sec: #56c26e;
     --fonte-dif:#e9d30f;
-    --amarelo-degrade: linear-gradient(97.54deg , #e9d30f 35.49%, #FFFFFF 165.37% );
+    --amarelo-degrade: linear-gradient(97.54deg , #14751b 35.49%, #36b636 165.37% );
 
 
 
